@@ -1,5 +1,5 @@
 ### Hey 👋
-I'm Daniel. I'm a writer, developer, and kind of a designer.
+I'm Daniel.
 
 - I’m currently working as a UX Engineer at [Uniswap Labs](https://uniswap.org). In my spare time I'm always working on little side projects, like these:
 - 🚀 [ath.ooo](https://ath.ooo)
