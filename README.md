@@ -1,7 +1,7 @@
 ### Hey 👋
 I'm Daniel.
 
-- I’m currently working as a UX Engineer at [Uniswap Labs](https://uniswap.org). In my spare time I'm always working on little side projects, like these:
+- I’m currently working as a Software Engineer at [Blackbird Labs](https://blackbird.xyz). In my spare time I'm always working on little side projects, like these:
 - 🐦‍⬛ [fly.town](https://fly.town)
 - 🚀 [ath.ooo](https://ath.ooo)
 - 🎈 [helium.plus](https://helium.plus)
